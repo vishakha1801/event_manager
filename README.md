@@ -6,5 +6,4 @@ This is my implementation of event_manager that has been adapted from The Turing
 * File input and output
 * Reading data from CSV files
 * String manipulation
-* Accessing Sunlight’s Congressional API through the Sunlight Congress gem
 * Using ERB for templating
